@@ -1,4 +1,4 @@
-module github.com/memochou1993/go-session
+module github.com/memochou1993/go-session-example
 
 go 1.16
 
